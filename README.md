@@ -14,7 +14,7 @@ k210基础硬件驱动程序
 3.开发平台：MaixPy IDE
 4.固件版本：maixpy_v0.6.0_2_g9720594_amigo_minimum.bin
 5.更新时间：2020.12.28
-6.注意事项：烧录固件需要自行前往https://bbs.sipeed.com进行更新，选择minimum才可以运行AI。烧录地址写在mask.kfpkg中的flash-list.json，请自行修改至合适flash位置。
+6.注意事项：烧录固件需要自行前往https://bbs.sipeed.com 进行更新，选择minimum才可以运行AI。烧录地址写在mask.kfpkg中的flash-list.json，请自行修改至合适flash位置。
 7.更新日志：
 目前仅包含基础驱动类，AI部分由于机器码限制，暂未进行例程化，目前仅测试成功口罩识别，预计下次更新会补全AI部署方面的例程
 8.参考文档：MaixPy开发手册、OpenMV中文参考手册、MicroPython、Machine Vision with Python
