@@ -1,5 +1,4 @@
 #AI口罩识别-(网络模型修改)
-#By：黄荣辉
 #-----------------------初始化区---------------------------#
 import sensor, image, lcd, time
 import KPU as kpu
