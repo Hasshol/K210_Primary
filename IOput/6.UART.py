@@ -1,5 +1,4 @@
 #串口自收发程序（来源于官方资源库）
-#By：黄荣辉
 #-----------------------初始化区---------------------------#
 from fpioa_manager import fm
 from machine import UART
