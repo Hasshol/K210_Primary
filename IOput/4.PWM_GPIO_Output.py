@@ -1,5 +1,4 @@
 #呼吸灯程序
-#By：黄荣辉
 #-----------------------初始化区---------------------------#
 from machine import Timer,PWM #定时器与PWM特定方法
 import time
